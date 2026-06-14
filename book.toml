@@ -1,7 +1,6 @@
 [book]
 authors = ["embeddedin"]
 language = "ko"
-multilingual = false
 src = "src"
 title = "Embedded In Book"
 
