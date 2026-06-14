@@ -1,0 +1,20 @@
+[book]
+authors = ["embeddedin"]
+language = "ko"
+multilingual = false
+src = "src"
+title = "Embedded In Book"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/embeddedin/embeddedin.github.io"
+edit-url-template = "https://github.com/embeddedin/embeddedin.github.io/edit/main/{path}"
+site-url = "/"
+
+[output.html.search]
+enable = true
