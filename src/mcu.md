@@ -13,3 +13,11 @@
 - RAM 
 - T/C
 - UART
+
+## ARM 
+
+### Cortex - A
+- 스마트폰, 태블릿, PC 고성능 임데디드 프로세서
+### Cortex - R
+### Cortex - M
+
